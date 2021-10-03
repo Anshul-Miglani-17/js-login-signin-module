@@ -1,0 +1,53 @@
+body{
+    background-color: rgba(0,0,0,0.5);
+}
+
+.form{
+    background-color: white;
+    width: 200px;
+    margin: 10px auto ;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black ;
+    display: block;
+    padding: 10px;
+}
+
+.form2{
+    background-color: white;
+    width: 200px;
+    margin: 10px auto ;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black ;
+    display: block;
+    padding: 10px;
+}
+
+input{
+    background-color: rgba(0,0,0,0.2);
+    display: block;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 10px;
+
+}
+.log{
+    width: 200px;
+    margin: 100px auto;
+}
+.log2{
+    width: 200px;
+    margin: 100px auto;
+}
+.login{
+    
+    width: 100px;
+    margin: auto;
+    padding: 10px;
+}
+
+.signin{
+    
+    width: 100px;
+    margin: auto;
+    padding: 10px;
+}
